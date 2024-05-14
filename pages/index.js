@@ -27,7 +27,7 @@ export default function Home({ prompt }) {
         </h1>
 
         <p className="text-center mb-10 -mt-2 md:text-2xl text-xl">
-          Make music from text then tokenize it as a <Link href="https://luvnft.com" className="hover:bg-violet-900 underline md:underline-offset-4 hover:no-underline bg-black text-white md:px-2 px-1 md:py-1 rounded">LUV NFT</Link> .
+          Make music from text then sell it as a <Link href="https://luvnft.com" className="hover:bg-violet-900 underline md:underline-offset-4 hover:no-underline bg-black text-white md:px-2 px-1 md:py-1 rounded">LUV NFT</Link> .
         </p>
 
         <Card>
