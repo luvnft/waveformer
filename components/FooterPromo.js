@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { ArrowRightIcon, video-camera, MusicalNoteIcon } from "@heroicons/react/24/solid";
+import { ArrowRightIcon, VideoCameraIcon, MusicalNoteIcon } from "@heroicons/react/24/solid";
 
 const FooterPromo = () => {
   return (
@@ -8,7 +8,7 @@ const FooterPromo = () => {
       <div className="p-6 mb-6 bg-gray-100 rounded-lg">
         <div className="max-w-prose">
           <h2 className="font-bold md:text-2xl text-xl mb-4">
-            <video-camera className="h-6 w-6 inline-block pb-1"></video-camera> NFTV Discord
+            <VideoCameraIcon className="h-6 w-6 inline-block pb-1"></VideoCameraIcon> NFTV Discord
           </h2>
           <p className="mb-4"> Sell your AImusic in our NFTV Discord as a broker in the marketplace, your first AImusic LUV NFT is on the house for a limited time only.</p>
           <Link href="https://nftv.luvnft.com" className="bg-black text-white px-5 py-3 mt-2 rounded" type="submit">
