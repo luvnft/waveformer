@@ -10,7 +10,7 @@ const FooterPromo = () => {
           <h2 className="font-bold md:text-2xl text-xl mb-4">
             <VideoCameraIcon className="h-6 w-6 inline-block pb-1"></VideoCameraIcon> NFTV Discord
           </h2>
-          <p className="mb-4"> Sell your AImusic in our NFTV Discord as a broker in the marketplace, your first AImusic LUV NFT is on the house for a limited time only.</p>
+          <p className="mb-4"> Sell your AImusic in our NFTV Discord as a broker in the marketplace, your first AImusic LUV NFT is on the house for a limited time only. Discover new prompts in the NFTV Broker #aimusic channel. </p>
           <Link href="https://nftv.luvnft.com" className="bg-black text-white px-5 py-3 mt-2 rounded" type="submit">
             Subscribe to NFTV <ArrowRightIcon className="h-5 w-5 inline-block"></ArrowRightIcon>
           </Link>
