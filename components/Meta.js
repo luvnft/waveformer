@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
 
 const Meta = ({ prompt, video }) => {
-  const title = prompt ? prompt : "Waveformer";
+  const title = prompt ? prompt : "AImusic";
 
   return (
     <Fragment>
@@ -21,15 +21,15 @@ const Meta = ({ prompt, video }) => {
           <meta property="twitter:player:height" content="665" />
         </Fragment>
       )}
-      <meta property="og:description" content="Text to music using MusicGen" />
-      <meta property="og:image" content="https://waveformer.replicate.dev/og.png" />
-      <meta property="og:url" content="https://waveformer.replicate.dev" />
+      <meta property="og:description" content="Text to music using AImusic sold as a LUV NFT" />
+      <meta property="og:image" content="https://aimusic.luvnft.com/og.png" />
+      <meta property="og:url" content="https://aimusic.luvnft.com" />
       <meta property="og:type" content="website" />
       <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:url" content="https://waveformer.replicate.dev" />
+      <meta property="twitter:url" content="https://aimusic.luvnft.com" />
       <meta property="twitter:title" content={title} />
-      <meta property="twitter:description" content="Text to music using MusicGen" />
-      <meta property="twitter:image" content="https://waveformer.replicate.dev/og.png" />
+      <meta property="twitter:description" content="Text to music using AImusic sold as a LUV NFT" />
+      <meta property="twitter:image" content="https://aimusic.luvnft.com/og.png" />
     </Fragment>
   );
 };

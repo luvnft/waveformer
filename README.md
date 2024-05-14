@@ -1,6 +1,6 @@
 # waveformer
 
-https://waveformer.replicate.dev
+https://aimusic.luvnft.com
 
 Text to music using MusicGen. Save your generations as audio of waveform video.
 
