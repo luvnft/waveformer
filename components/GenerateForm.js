@@ -137,7 +137,7 @@ const GenerateForm = ({ prompt: startingPrompt, duration: startingDuration, isMu
         <form id="music-form" className="w-full" onSubmit={handleSubmit}>
 
           <label className="block md:mb-4 mb-2 font-bold md:text-2xl text-xl" htmlFor="music-prompt">
-            <span className="md:inline hidden">🎸</span> Prompt
+            <span className="md:inline hidden">🎺</span> Prompt
           </label>
 
           <div className="md:flex">
